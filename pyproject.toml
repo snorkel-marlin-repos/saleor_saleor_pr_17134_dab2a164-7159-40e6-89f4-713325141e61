@@ -86,7 +86,7 @@ documentation = "https://docs.saleor.io/"
   weasyprint = ">=53.0"
 
     [tool.poetry.dependencies.django]
-    version = "^3.2.24"
+    version = "^4.2.25"
     extras = [ "bcrypt" ]
 
     [tool.poetry.dependencies.uvicorn]
